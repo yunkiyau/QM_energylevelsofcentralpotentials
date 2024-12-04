@@ -1,1 +1,1 @@
-# QM_energylevelsofcentralpotentials
+This matlab code computes the first few energy levels of several different central potential wells by diagonalizing potential energy matrices, and creates two figures. One figure shows the energy levels of several different central potentials and one figure shows the first few wavefunctions for a finite square well.
